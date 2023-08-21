@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+ .customcard{
+    border-left: 5px solid lightgray;
+    padding: 5px;
+    margin: 5px;
+    font-size: large;
+ }
+
+p.thick {
+  font-weight: bold;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+.answer {
+  background-color: beige;
+
+}
